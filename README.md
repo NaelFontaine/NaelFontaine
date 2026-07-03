@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Nael Fontaine!</h1>
-<h3 align="center">Software Engineering Student | ENSEEIHT 🇫🇷 /h3>
+<h3 align="center">Software Engineering Student | ENSEEIHT 🇫🇷 </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nael-fontaine" target="_blank">
